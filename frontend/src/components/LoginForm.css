@@ -1,0 +1,36 @@
+/* components/LoginForm.css */
+
+.center {
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 250px;
+  }
+  
+  .form-container {
+    margin-bottom: 20px; /* Add margin at the bottom of the form */
+  }
+  
+  .predefined-login {
+    margin-top: 10px; /* Add margin at the top of the predefined logins */
+    margin-left: 100px;
+
+  }
+  
+  .predefined-login h5 {
+    margin-bottom: 10px;
+  }
+  
+  .predefined-login ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .predefined-login li {
+    margin-bottom: 5px;
+  }
+  
+  .predefined-login li span {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
