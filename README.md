@@ -1,5 +1,6 @@
 # Social-dashboard
 ## 
+# A YouTube video showcasing how the project will look and function
 [![Alt text](https://img.youtube.com/vi/K65FV1x4hDM/0.jpg)](https://www.youtube.com/watch?v=K65FV1x4hDM)
 
 I developed a miniature social media dashboard using Django for the backend and React for the frontend.
